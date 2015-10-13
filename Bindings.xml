@@ -1,0 +1,20 @@
+<Bindings>
+	<Binding name="MYXP_SAY" header="MYXP" category="ADDONS">
+		SlashCmdList.MYXP("say");
+	</Binding>
+	<Binding name="MYXP_PARTY" header="MYXP" category="ADDONS">
+		SlashCmdList.MYXP("party");
+	</Binding>
+	<Binding name="MYXP_GUILD" header="MYXP" category="ADDONS">
+		SlashCmdList.MYXP("guild");
+	</Binding>
+	<Binding name="MYXP_RAID" header="MYXP" category="ADDONS">
+		SlashCmdList.MYXP("raid");
+	</Binding>
+	<Binding name="MYXP_WARNING" header="MYXP" category="ADDONS">
+		SlashCmdList.MYXP("warning");
+	</Binding>
+	<Binding name="MYXP_PRINT" header="MYXP" category="ADDONS">
+		SlashCmdList.MYXP("print");
+	</Binding>
+</Bindings>

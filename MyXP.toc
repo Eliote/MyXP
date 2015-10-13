@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: |cffffffffMyXP
+## Author: Eliote
+## Notes: Show your XP to the group
+## SavedVariables: MyXPDB
+
+MyXP.lua
